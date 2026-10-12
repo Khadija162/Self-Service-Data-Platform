@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+.env.*
+!.env.example
+artifacts/
+data/bronze/
+data/silver/
+data/gold/
+*.parquet
+*.db
+*.tfstate*
+*.tfvars
+.terraform/
