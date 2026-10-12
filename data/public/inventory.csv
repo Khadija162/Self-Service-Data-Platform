@@ -1,0 +1,7 @@
+sku,warehouse,stock_units,reorder_point
+SKU-1,Oslo,25,10
+SKU-2,Oslo,4,12
+SKU-3,Bergen,18,15
+SKU-4,Bergen,0,5
+SKU-5,Trondheim,60,20
+SKU-6,Trondheim,7,9
